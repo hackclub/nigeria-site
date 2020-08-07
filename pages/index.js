@@ -10,7 +10,7 @@ import Clubs from '../components/Clubs/index'
 import Scrapbook from '../components/Scrapbook/index'
 import Hackathon from '../components/Hackathons/index'
 import Footer from '../components/Footer/index'
-import About from '../components/about/index'
+import About from '../components/About/index'
 
 export default () => {
   return (
